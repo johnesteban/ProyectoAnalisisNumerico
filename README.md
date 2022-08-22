@@ -1,6 +1,10 @@
-# ProyectoAnalisisNumerico
+# Proyecto análisis numérico- elaboración de todos los métodos vistos en clase.
+## Integrantes:
 
-## Integrantes: 
-  John Esteban Castro Ramirez
-  Martin Ospina Uribe 
-  Miguel Angel Chacon López
+• John Esteban Castro Ramirez
+
+• Martin Ospina Uribe
+
+• Miguel Ángel Chacon López
+
+
