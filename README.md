@@ -1,4 +1,4 @@
-# Proyecto análisis numérico- elaboración de todos los métodos vistos en clase.
+# Proyecto análisis numérico- Investigación máquinas de vector soporte.
 ## Integrantes:
 
 • John Esteban Castro Ramirez
