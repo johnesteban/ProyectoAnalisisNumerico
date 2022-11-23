@@ -1,5 +1,4 @@
 function G = mykernel(U,V)
-    %global lam
     lam=0.75; 
     m=size(U,1);
     n=size(V,1);
